@@ -1,0 +1,58 @@
+export const BookData = [
+  {
+    id: 1,
+    name: "Pride: and Prejudice",
+    author: "Jane Austen",
+    publishedDate: 1813,
+    isFav: false,
+  },
+  {
+    id: 2,
+    name: "To Kill a Mockingbird",
+    author: "Harper Lee",
+    publishedDate: 1960,
+    isFav: true,
+  },
+  {
+    id: 3,
+    name: "Animal farm",
+    author: "George Orwell",
+    publishedDate: 1945,
+    isFav: false,
+  },
+  {
+    id: 4,
+    name: "The Great Gatsby",
+    author: "F. Scott Fitzgerald",
+    publishedDate: 1925,
+    isFav: false,
+  },
+  {
+    id: 5,
+    name: "One Hundred Years of Solitude",
+    author: "Gabriel García Márquez",
+    publishedDate: 1967,
+    isFav: false,
+  },
+  {
+    id: 6,
+    name: "Moby-Dick",
+    author: "Herman Melville",
+    publishedDate: 1851,
+    isFav: false,
+  },
+  {
+    id: 7,
+    name: "Jane Eyre",
+    author: "Charlotte Brontë",
+    publishedDate: 1847,
+    isFav: false,
+  },
+  {
+    id: 8,
+    name: "Crime and Punishment",
+    author: "Fyodor Dostoevsky",
+    publishedDate: 1866,
+    isFav: false,
+  },
+];
